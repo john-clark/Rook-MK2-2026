@@ -1,0 +1,73 @@
+# mkdocs.yml
+site_name: "Rook MK2-2026 Build Manual"
+site_url: "https://john-clark.github.io/Rook-MK2-2026"
+site_description: "Comprehensive build manual for the Rook MK2-2026 3D printer."
+site_author: "John Clark"
+use_directory_urls: true
+
+# Theme configuration
+theme:
+  name: material
+  palette:
+
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  features:
+    - navigation.instant
+    - navigation.sections
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+
+# Repository link for 'Edit on GitHub'
+repo_name: "john-clark/Rook-MK2-2026"
+repo_url: "https://github.com/john-clark/Rook-MK2-2026"
+edit_uri: "edit/main/docs/"
+
+# Navigation / sidebar
+nav:
+  - Introduction: index.md
+  - Bill of Materials: bom.md
+  - Printed Parts List: parts.md
+  - Assembly: assembly.md
+
+# Extra plugins
+plugins:
+  - search
+
+# Markdown extensions
+markdown_extensions:
+  - admonition    # for Notes, Warnings, Tips
+  - codehilite
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - toc:
+      permalink: true
+
+# Extra configuration
+extra:
+  base_url: "/Rook-MK2-2026/"
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/john-clark/Rook-MK2-2026
