@@ -16,7 +16,7 @@ This repository is specific to my printer vs. the official printer. I have made 
 
 * If you find this useful or have any suggestions please feel free to open an issue or pull request.
 
-[You can read my build documentation here](/docs/index.md)
+[You can read my build documentation here](https://john-clark.github.io/Rook-MK2-2026/)
 
 Thanks for visiting!
 
