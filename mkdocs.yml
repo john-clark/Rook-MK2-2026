@@ -54,6 +54,7 @@ nav:
 # Extra plugins
 plugins:
   - search
+  - git-revision-date
 
 # Markdown extensions
 markdown_extensions:
