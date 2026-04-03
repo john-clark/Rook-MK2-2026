@@ -1,6 +1,6 @@
 # **John's 2026 [Rook MK2!](https://www.printables.com/model/1644597-rook-mk2/files)**
 
-!!! Alert Hello!
+!!! note "Hello!"
     Welcome to my documentation!
 
 ## Specifications
@@ -12,7 +12,7 @@
 * Dragonburner Toolhead with wide extruder and hotend support
 * Sensorless and Endstop homing support
 
-![Rook Mk2 image](/docs/images/IMG_2871.jpg)
+![Rook Mk2 image](images/IMG_2871.jpg)
 
 ## TABLE OF CONTENTS
 
