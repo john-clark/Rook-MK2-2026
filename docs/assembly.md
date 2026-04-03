@@ -64,6 +64,10 @@ todo (not in cad)
 
 ![pins](images/hLTimage.png)
 
+#### Add the top of the frame
+
+![top frame](images/topframe.jpg)
+
 ## Bed
 
 #### mount bed holder to rails (also attach endstop bar)
