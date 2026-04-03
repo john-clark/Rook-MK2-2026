@@ -2,12 +2,10 @@
 
 > [Back to table of contents](index.md)
 
-## MCU
+## z axis
 
-## Motors
+## Y axis
 
-https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/
-
-## Endstops
+## X axis
 
 > [Next section - Software](wiring.md)
