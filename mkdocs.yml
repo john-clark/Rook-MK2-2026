@@ -46,10 +46,14 @@ edit_uri: "edit/main/docs/"
 
 # Navigation / sidebar
 nav:
-  - Introduction: index.md
+  - Index: index.md
+  - Introduction: intro.md
   - Bill of Materials: bom.md
   - Printed Parts List: parts.md
   - Assembly: assembly.md
+  - Belts: belts.md
+  - Wiring: wiring.md
+  - Software: software.md
 
 # Extra plugins
 plugins:
