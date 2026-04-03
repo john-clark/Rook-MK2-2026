@@ -22,6 +22,6 @@ The Rook MK2 uses **Cartesian motion** with belts and **apex clips** to move the
     * Use the screw to adjust the slide tensioner and fine-tune the belt tension until there is no slack but the motion remains smooth.
 
 !!! Tip
-   * Align belt teeth carefully with pulleys to prevent skipping.
-   * **Avoid over-tightening**; excessive tension can damage motors or pulleys.
-   * Double-check all axes for smooth, free movement before final calibration.
+       * Align belt teeth carefully with pulleys to prevent skipping.
+       * **Avoid over-tightening**; excessive tension can damage motors or pulleys.
+       * Double-check all axes for smooth, free movement before final calibration.
