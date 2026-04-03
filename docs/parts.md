@@ -11,4 +11,4 @@
 
 When you layout the parts I suggest printing only one part at a time. That way if it the room is too cold and the parts curl up you are not wasting a lot of filament.
 
-![plate layout](/docs/images/plates.png)
+![plate layout](images/plates.png)
