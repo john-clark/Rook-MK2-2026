@@ -1,7 +1,5 @@
 # Assembly
 
-> [Back to table of contents](index.md)
-
 ## Frame
 
 #### 1. Assemble Frame with rods
@@ -75,6 +73,3 @@ todo (not in cad)
 #### insert springs and mount bed to holder
 
 ![bed](images/4kqimage.png)
-
-
-> [Next section - Belts](belts.md)

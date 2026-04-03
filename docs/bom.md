@@ -1,7 +1,5 @@
 # BOM
 
-> [Back to table of contents](index.md)
-
 Go through this list and cross off anything you have.
 Then add up what is left is what your printer will cost.
 
@@ -109,6 +107,3 @@ These are the screws that you will need:
 |  4 | 6 pin female | 4 wire to stepper motor  |
 |  4 | 4 pin female | 4 wire to mcu for stepper |
 |  3 | 2 pin female | 2 wire to mcu for endstop |
-
-
-> [Next section - Printing Parts](parts.md)

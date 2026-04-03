@@ -10,18 +10,16 @@ theme:
   name: material
   palette:
 
-    # Light mode
     - scheme: default
       primary: indigo
-      accent: pink
+      accent: orange
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
-    # Dark mode
     - scheme: slate
       primary: indigo
-      accent: pink
+      accent: orange
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -33,6 +31,7 @@ theme:
   features:
     - navigation.instant
     - navigation.sections
+    - navigation.footer
     - toc.integrate
     - search.highlight
     - search.suggest
@@ -62,11 +61,11 @@ plugins:
 
 # Markdown extensions
 markdown_extensions:
-  - admonition    # for Notes, Warnings, Tips
+  - admonition
   - codehilite
   - pymdownx.details
   - pymdownx.superfences
-  - attr_list 
+  - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -79,3 +78,4 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/john-clark/Rook-MK2-2026
+  footer: "© 2026 John Clark - Rook MK2 Manual"
