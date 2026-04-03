@@ -1,4 +1,4 @@
-# John's [2026 Rook MK2](https://www.printables.com/model/1644597-rook-mk2)</h1>
+# John's [2026 Rook MK2](https://www.printables.com/model/1644597-rook-mk2)
 
 ![Rook Mk2 image](docs/images/IMG_2871.jpg)
 
@@ -15,6 +15,8 @@ This is my repository for **my Rook MK2**, a 3D printer released in 2026 by [Rol
 This repository is specific to my printer vs. the official printer. I have made specific design choices for **my printer** that I would like to remember and therefore this repository was created. All the files contained herein were sourced publicly from Printables, Discord, the Voron github or my own creation.
 
 * If you find this useful or have any suggestions please feel free to open an issue or pull request.
+
+[You can read my build documentation here](/docs/index.md)
 
 Thanks for visiting!
 
