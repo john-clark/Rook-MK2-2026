@@ -1,4 +1,4 @@
-# Assembly
+# Wiring
 
 > [Back to table of contents](index.md)
 
@@ -6,7 +6,6 @@
 
 ## Motors
 
-https://www.mattmillman.com/info/crimpconnectors/common-jst-connector-types/
 
 ## Endstops
 
