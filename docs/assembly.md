@@ -10,7 +10,7 @@
 
 ![screw location on side panels](images/GfOimage.png)
 
-![front panel](images/QrIimage.png)
+![front panel](images/qy2image.png)
 
 ![back pane](images/QrIimage.png)
 

@@ -1,6 +1,6 @@
 # Software
 
-## SDCard Preperation
+## SDCard Preparation
 
 ## Klipper
 
