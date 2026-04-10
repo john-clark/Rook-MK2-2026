@@ -28,7 +28,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 1 | [188mm GT2 Belt Loop for Z (7mm tall with t)](https://www.amazon.com/MECCANIXITY-Timing-Printing-Closed-Rubber/dp/B0FRD6NNM3) | $15.00 |
 | 2 | [5mm to 5mm bore coupler (Inner Diameter: 5mm-5mm(D14xL25))](https://www.amazon.com/Skweawert-5mm-Connector-Aluminum-Accessories/dp/B0DC6XWJSC) | $7.00 |
 | 3 | [400mm CF or Steel Rod 5mm Diameter](https://www.amazon.com/FOCMKEAS-Carbon-5mm-400mm-Airplane/dp/B0DGF22XY8) | $10.00 |
-| 4 | Rubber Feet or print TPU |   |
+| 4 | Rubber Feet or **print TPU** |   |
 | | **SUB TOTAL** | **$148.00** |
 
 | v0 BED |   |
@@ -36,26 +36,25 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | [Spring Steel & Magnet 120x120mm](https://www.amazon.com/Shion-Kwoo-Upgraded-Textured-120x120mm-Double-Sides/dp/B0CJ9663RC) | $15.00 |
 | [Aluminum v0 Bed](https://www.amazon.com/ASHATA-Support-Printer-Replacement-Aluminum/dp/B0C53VNLFC) | $20.00 |
 | [v0 Heater](https://www.amazon.com/Temperature-120X120-Silicone-Adhesive-Monoprice/dp/B08BNR7ZS9) | $15.00 |
-| Bed Springs and M3 Bolts | $4.00 |
+| [Bed Springs](https://www.amazon.com/BlingKingdom-Leveling-Compression-Connection-Creality/dp/B0CMT5GQG1) and M3 Bolts and M3 Locknuts or heatset | $5.00 |
 
 | Extruder + Hotend (Dragonburner) |   |
 | --- | --- |
 | [Bambu X1 Clone hotend](https://www.amazon.com/dp/B0FG2T5T12) | $13.00 |
 | [SHerpa Extruder](https://www.amazon.com/Accessories-Lightweight-Extruder-Compatible-Ender3v2/dp/B0CNPG9QB2) | $30.00 |
-| PC4-M10 Pneumatic Fittings |   |
-| PTFE Tube |   |
+| [PC4-M10 Pneumatic Fittings](https://www.amazon.com/StLiSuYmx-Pneumatic-Connector-Fittings-Compatible/dp/B0F62FZK4R) |   |
+| [PTFE Tube](https://www.amazon.com/16-4ft-PTFE-Teflon-1-75mm-Filament/dp/B0F5HK1F3S) | $6.00  |
 
 | Qty | Electronics |   |
 | --- | --- | --- |
 | 1 | [24 Volt 6 Amp Power Supply AC Adapter](https://www.amazon.com/dp/B0FDFJ7RBB) | $24.00 |
 | 1 | [DC Power Jack Socket, 5.5mm x 2.5mm Female Barrel Panel Mount](https://www.amazon.com/dp/B07Y8KKSR1)  | $7 |
-| optional | Optical Endstop ( If not using Biqu Micro Probe ) | $1.00 |
 | 2 or 3 | [Endstop Omron ( If not using sensorless homeing )](https://www.amazon.com/dp/B0CB85485W) | $6.00 |
-| optional | Microprobe  | $27.00 |
+| optional | [BIQU Microprobe](https://www.amazon.com/MicroProbe-Leveling-Printer-Extruder-Octopus/dp/B0C89G7YH2)  | $26.00 |
 | urchoice  | [BIGTREETECH DZ-01 MCU](https://kb-3d.com/store/controllers-displays-drivers/8762-bigtreetech-dz-01-3d-printer-main-controller-board-v10-1772162602284.html) | $85.00 |
 | 1 | [Spool of wiring](https://www.amazon.com/dp/B0FKFVPL6Y) | $18.00 |
 | 1 | [630PCS JST PH Kit PH2.0mm Connectors Set](https://www.amazon.com/EGSCST-Connector-PH2-0mm-Terminal-Connectors/dp/B0FJ8P8VYQ) | $10.00|
-| 1 | 3010 24v ball bearing fan for hotend | $11.00 |
+| 1 | 3010 24v ball bearing fan for hotend(included on hotend) | $11.00 |
 | 2 | [4010 24vball bearing fan for layer cooling](https://www.amazon.com/dp/B07L2WTH7H) | $11.00 |
 
 ### **TOTAL: approximately $300**
