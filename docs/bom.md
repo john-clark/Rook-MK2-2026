@@ -58,7 +58,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 1 | [630PCS JST PH Kit PH2.0mm Connectors Set](https://www.amazon.com/EGSCST-Connector-PH2-0mm-Terminal-Connectors/dp/B0FJ8P8VYQ) | $10 |
 | 1 | 3010 24v ball bearing fan for hotend(included on hotend) | $11 |
 | 2 | [4010 24vball bearing fan for layer cooling](https://www.amazon.com/dp/B07L2WTH7H) | $11 |
-| **SUB TOTAL** | **~ $161** |
+| | **SUB TOTAL** | **~ $161** |
 
 ### **TOTAL: approximately $300**
 
