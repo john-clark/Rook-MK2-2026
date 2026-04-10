@@ -60,7 +60,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 2 | [4010 24vball bearing fan for layer cooling](https://www.amazon.com/dp/B07L2WTH7H) | $11 |
 | | **SUB TOTAL** | **~ $161** |
 
-### **TOTAL: approximately $300**
+### **TOTAL: approximately $300-400**
 
 ---
 
