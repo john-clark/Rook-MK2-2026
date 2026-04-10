@@ -42,7 +42,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | --- | --- |
 | [Bambu X1 Clone hotend](https://www.amazon.com/dp/B0FG2T5T12) | $13.00 |
 | [SHerpa Extruder](https://www.amazon.com/Accessories-Lightweight-Extruder-Compatible-Ender3v2/dp/B0CNPG9QB2) | $30.00 |
-| [PC4-M10 Pneumatic Fittings](https://www.amazon.com/StLiSuYmx-Pneumatic-Connector-Fittings-Compatible/dp/B0F62FZK4R) |   |
+| [PC4-M10 Pneumatic Fittings](https://www.amazon.com/StLiSuYmx-Pneumatic-Connector-Fittings-Compatible/dp/B0F62FZK4R) | $5.00  |
 | [PTFE Tube](https://www.amazon.com/16-4ft-PTFE-Teflon-1-75mm-Filament/dp/B0F5HK1F3S) | $6.00  |
 
 | Qty | Electronics |   |
