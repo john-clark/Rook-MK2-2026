@@ -51,6 +51,7 @@ nav:
   - Printed Parts List: parts.md
   - Assembly: assembly.md
   - Belts: belts.md
+  - Toolhead and Extruder: toolhead.md
   - Wiring: wiring.md
   - Software: software.md
 
