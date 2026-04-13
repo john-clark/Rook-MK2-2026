@@ -29,7 +29,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 2 | [5mm to 5mm bore coupler (Inner Diameter: 5mm-5mm(D14xL25))](https://www.amazon.com/Skweawert-5mm-Connector-Aluminum-Accessories/dp/B0DC6XWJSC) | $7 |
 | 3 | [400mm CF or Steel Rod 5mm Diameter](https://www.amazon.com/FOCMKEAS-Carbon-5mm-400mm-Airplane/dp/B0DGF22XY8) | $10 |
 | 4 | Rubber Feet or **print TPU** |   |
-| | **SUB TOTAL** | **~ $148** |
+| | **SUB TOTAL** | ~**$148** |
 
 | v0 BED |   |
 | --- | --- |
@@ -37,7 +37,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | [Aluminum v0 Bed](https://www.amazon.com/ASHATA-Support-Printer-Replacement-Aluminum/dp/B0C53VNLFC) | $20 |
 | [v0 Heater](https://www.amazon.com/Temperature-120X120-Silicone-Adhesive-Monoprice/dp/B08BNR7ZS9) | $15 |
 | [Bed Springs](https://www.amazon.com/BlingKingdom-Leveling-Compression-Connection-Creality/dp/B0CMT5GQG1) and M3 Bolts and M3 Locknuts or heatset | $5 |
-| **SUB TOTAL** | **~ $50** |
+| **SUB TOTAL** | ~**$50** |
 
 | Extruder + Hotend (Dragonburner) |   |
 | --- | --- |
@@ -45,7 +45,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | [Sherpa Extruder](https://www.amazon.com/Accessories-Lightweight-Extruder-Compatible-Ender3v2/dp/B0CNPG9QB2) | $30 |
 | [PC4-M10 Pneumatic Fittings](https://www.amazon.com/StLiSuYmx-Pneumatic-Connector-Fittings-Compatible/dp/B0F62FZK4R) | $5 |
 | [PTFE Tube](https://www.amazon.com/16-4ft-PTFE-Teflon-1-75mm-Filament/dp/B0F5HK1F3S) | $6 |
-| **SUB TOTAL** | **~ $50** |
+| **SUB TOTAL** | ~**$50** |
 
 | Qty | Electronics |   |
 | --- | --- | --- |
@@ -58,7 +58,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 1 | [630PCS JST PH Kit PH2.0mm Connectors Set](https://www.amazon.com/EGSCST-Connector-PH2-0mm-Terminal-Connectors/dp/B0FJ8P8VYQ) | $10 |
 | 1 | 3010 24v ball bearing fan for hotend(included on hotend) | $11 |
 | 2 | [4010 24vball bearing fan for layer cooling](https://www.amazon.com/dp/B07L2WTH7H) | $11 |
-| | **SUB TOTAL** | **~ $161** |
+| | **SUB TOTAL** | ~**$161** |
 
 ### **TOTAL: approximately $300-400**
 
