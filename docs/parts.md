@@ -1,7 +1,7 @@
 # Parts
 
 !!! Note 
-  This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
+    This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
 
 | Property | Density (g/cm³) | Scale Factor      | Shrinkage   | Tensile Strength (MPa) | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance (°C) | UV Resistance | Aging Resistance | Printability                | Biocompatibility                    | Cost        |
 | :------- | :-------------- | :---------------- | :---------- | :--------------------- | :---------------- | :----------------------- | :------------------ | :------------------- | :------------ | :--------------- | :-------------------------- | :---------------------------------- | :---------- |
@@ -14,7 +14,16 @@
 **For best results use a Material type of ABS, ASA.**
 
 !!! Note "Nylon (PA) Notes:" 
-  Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
+    Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
+
+### Shrinkage
+
+Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to calibrate your printer and filament before printing.
+
+* 3D4Create (2024) [3D Printer Shrinkage: A Complete Guide](https://3d4create.com/3d-printer-shrinkage/)
+* Filament2Print (2023) [Shrinkage in 3D Printing: Everything You Need to Know](https://filament2print.com/gb/blog/shrinkage-3d-printing.html)
+* Kingroon (2024) [OrcaSlicer vs Bambu Studio: Shrinkage Compensation Settings](https://kingroon.com/blogs/3d-printing-guide/orcaslicer-vs-bambu-studio)
+* All3DP (2023) [ASA vs ABS: Material Properties and Printing Characteristics](https://all3dp.com/)
 
 ## Print Settings
 
@@ -83,3 +92,22 @@ If you are having problems with lifting edges I suggest the following settings u
 | **Brim type**               | Outer brim Only           |
 | **Brim Width**              | 5mm (default)             |
 | **Brim-Object gap**         | 0.1mm (default)           |
+
+
+## Extra Parts
+
+If you don't want to buy pins, couplers, idlers and pulleys and rails you can print them. I printed them as place holders on my build until my parts came in. I have not had a chance to determine the longevity of these parts, although I doubt the rails will be sufficient for any use other than observation.
+
+* [Rails](https://www.printables.com/model/338778-mgn9c-rail-and-carriage/files)
+* [Couplers](https://www.printables.com/model/1370729-coupler-5mm-to-5mm-shaft)
+* [Idlers](https://www.thingiverse.com/thing:1430558)
+* [Pulleys](https://www.printables.com/model/1100977-pulleys-gt2-20t-for-a-6mm-belt-and-a-5-mm-shaftbol)
+* Pins (link coming soon) - Print horizontal with ASA and you can not break them.
+
+## Customization
+
+You can down load different inserts to customize your Rook.
+
+* [Hexmod](https://www.printables.com/model/1673426-rook-2026-mk2-hexmod)
+* [Vanitymod](https://www.printables.com/model/1682095-rook-2026-mk2-vanity-mod)
+
