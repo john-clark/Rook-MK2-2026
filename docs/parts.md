@@ -1,6 +1,7 @@
 # Parts
 
-!!! Note This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
+!!! Note 
+  This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
 
 | Property | Density (g/cm³) | Scale Factor      | Shrinkage   | Tensile Strength (MPa) | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance (°C) | UV Resistance | Aging Resistance | Printability                | Biocompatibility                    | Cost        |
 | :------- | :-------------- | :---------------- | :---------- | :--------------------- | :---------------- | :----------------------- | :------------------ | :------------------- | :------------ | :--------------- | :-------------------------- | :---------------------------------- | :---------- |
@@ -12,7 +13,8 @@
 
 **For best results use a Material type of ABS, ASA.**
 
-!!! Note "Nylon (PA) Notes:" Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
+!!! Note "Nylon (PA) Notes:" 
+  Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
 
 ## Print Settings
 
