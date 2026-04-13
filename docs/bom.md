@@ -54,7 +54,7 @@ The purchasing suggestions here will have leftover parts to start your next proj
 | 2 or 3 | [Endstop Omron ( If not using sensorless homeing )](https://www.amazon.com/dp/B0CB85485W) | $6 |
 | optional | [BIQU Microprobe](https://www.amazon.com/MicroProbe-Leveling-Printer-Extruder-Octopus/dp/B0C89G7YH2)  | $26 |
 | urchoice  | [BIGTREETECH DZ-01 MCU](https://kb-3d.com/store/controllers-displays-drivers/8762-bigtreetech-dz-01-3d-printer-main-controller-board-v10-1772162602284.html) | $85 |
-| 1 | [Spool of wiring](https://www.amazon.com/dp/B0FKFVPL6Y) | $18 |
+| 1 | [Spool of wiring](https://www.amazon.com/dp/B07PNQ49P5) | $18 |
 | 1 | [630PCS JST PH Kit PH2.0mm Connectors Set](https://www.amazon.com/EGSCST-Connector-PH2-0mm-Terminal-Connectors/dp/B0FJ8P8VYQ) | $10 |
 | 1 | 3010 24v ball bearing fan for hotend(included on hotend) | $11 |
 | 2 | [4010 24vball bearing fan for layer cooling](https://www.amazon.com/dp/B07L2WTH7H) | $11 |
