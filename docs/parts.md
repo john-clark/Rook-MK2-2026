@@ -3,18 +3,22 @@
 !!! Info 
     This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
 
+The following table is to help guide you decision making choice. I have printed my Rooks with parts in various filaments.
+
 | Property | Density (g/cm³) | Scale Factor      | Shrinkage   | Tensile Strength (MPa) | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance (°C) | UV Resistance | Aging Resistance | Printability                | Biocompatibility                    | Cost        |
 | :------- | :-------------- | :---------------- | :---------- | :--------------------- | :---------------- | :----------------------- | :------------------ | :------------------- | :------------ | :--------------- | :-------------------------- | :---------------------------------- | :---------- |
-| ASA      | \~1.07          | 100.50%           | 0.4% – 0.7% | \~50–55                | High              | High (Shore D \~70)      | Good                | \~90–100             | Excellent     | High             | Moderate (needs enclosure)  | Limited                             | Medium-High |
-| ABS      | \~1.04          | 100.81%           | 0.7% – 1.6% | \~40–50                | Medium-High       | Medium-High              | Moderate            | \~85–100             | Poor          | Low              | Moderate (needs enclosure)  | No                                  | Low-Medium  |
-| PETG     | \~1.27          | 100.40%           | 0.2% – 1%   | \~50–60                | High              | Medium                   | Moderate            | \~75–85              | Poor          | Medium           | Easy                        | Limited                             | Medium      |
-| PLA      | \~1.24          | 100.30%           | 0.2% – 0.5% | \~45–60                | Low-Medium        | High, but brittle        | Poor                | \~60                 | Poor          | Low              | Very Easy                   | Yes (food-safe grades)              | Low         |
-| Nylon    | \~1.12–1.15     | \~100.80%–101.20% | 1.0% – 2.0% | \~60–80                | Very High         | Medium (flexible, tough) | Excellent           | \~100–120            | Poor          | Medium-High      | Difficult (needs enclosure) | Limited (some medical grades exist) | Medium-High |
+| ASA      | ~1.07          | 100.50%           | 0.4% – 0.7% | ~50–55                | High              | High (Shore D ~70)      | Good                | ~90–100             | Excellent     | High             | Moderate (needs enclosure)  | Limited                             | Medium-High |
+| ABS      | ~1.04          | 100.81%           | 0.7% – 1.6% | ~40–50                | Medium-High       | Medium-High              | Moderate            | ~85–100             | Poor          | Low              | Moderate (needs enclosure)  | No                                  | Low-Medium  |
+| PETG     | ~1.27          | 100.40%           | 0.2% – 1%   | ~50–60                | High              | Medium                   | Moderate            | ~75–85              | Poor          | Medium           | Easy                        | Limited                             | Medium      |
+| PLA      | ~1.24          | 100.30%           | 0.2% – 0.5% | ~45–60                | Low-Medium        | High, but brittle        | Poor                | ~60                 | Poor          | Low              | Very Easy                   | Yes (food-safe grades)              | Low         |
+| Nylon    | ~1.12–1.15     | ~100.80%–101.20% | 1.0% – 2.0% | ~60–80                | Very High         | Medium (flexible, tough) | Excellent           | ~100–120            | Poor          | Medium-High      | Difficult (needs enclosure) | Limited (some medical grades exist) | Medium-High |
 
 **For best results use a Material type of ABS, ASA.**
 
+The density relates to how heavy the product will be when printed. 
+
 !!! Note "Nylon (PA)" 
-    Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
+    Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing. I do not suggest Nylon due to the difficulties printing.
 
 ### Shrinkage
 
@@ -72,7 +76,7 @@ Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to cal
 
 **Speed->Other layers speed**
 
-This will keep the color consistant
+This will keep the color consistent
 
 | **Setting**                 | Value                     |
 | :-------------------------- | :------------------------ |
