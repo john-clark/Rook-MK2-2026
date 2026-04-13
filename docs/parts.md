@@ -1,6 +1,6 @@
 # Parts
 
-!!! Note 
+!!! Info 
     This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
 
 | Property | Density (g/cm³) | Scale Factor      | Shrinkage   | Tensile Strength (MPa) | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance (°C) | UV Resistance | Aging Resistance | Printability                | Biocompatibility                    | Cost        |
@@ -13,12 +13,14 @@
 
 **For best results use a Material type of ABS, ASA.**
 
-!!! Note "Nylon (PA) Notes:" 
+!!! Note "Nylon (PA)" 
     Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing.
 
 ### Shrinkage
 
 Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to calibrate your printer and filament before printing.
+
+#### Further reading
 
 * 3D4Create (2024) [3D Printer Shrinkage: A Complete Guide](https://3d4create.com/3d-printer-shrinkage/)
 * Filament2Print (2023) [Shrinkage in 3D Printing: Everything You Need to Know](https://filament2print.com/gb/blog/shrinkage-3d-printing.html)
@@ -27,7 +29,7 @@ Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to cal
 
 ## Print Settings
 
-**Choose 0.20mm Strength @BBL X1C**
+**Choose 0.20mm Strength** and verify the following settings:
 
 **Quality->Layer Height**
 
