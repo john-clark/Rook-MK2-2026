@@ -36,7 +36,7 @@ Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to cal
 
 Verify the following settings:
 
-* **0.20mm Strength@BBL X1C**
+* **0.20mm Strength@BBL X1C** _Bambu_
 * **0.20mm Standard @some printer**
 
 **Quality->Layer Height**
@@ -103,7 +103,7 @@ If you are having problems with lifting edges I suggest the following settings u
 | **Skirt Height**            | 50                        |
 | **Brim type**               | Outer brim Only           |
 | **Draft shield**            | Disabled (its too much)   |
-| **Brim type                 | Outer Brim only           |
+| **Brim type**               | Outer Brim only           |
 | **Brim Width**              | 5mm (default)             |
 | **Brim-Object gap**         | 0.1mm (default)           |
 
