@@ -5,13 +5,13 @@
 
 The following table is to help guide your decision making filament type choice. I have printed my Rooks with parts in various filaments.
 
-| Property | Density (g/cm³) | Scale Factor      | Shrinkage   | Tensile Strength (MPa) | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance (°C) | UV Resistance | Aging Resistance | Printability                | Biocompatibility                    | Cost        |
-| :------- | :-------------- | :---------------- | :---------- | :--------------------- | :---------------- | :----------------------- | :------------------ | :------------------- | :------------ | :--------------- | :-------------------------- | :---------------------------------- | :---------- |
-| ASA      | ~1.07          | 100.50%           | 0.4% – 0.7% | ~50–55                | High              | High (Shore D ~70)      | Good                | ~90–100             | Excellent     | High             | Moderate (needs enclosure)  | Limited                             | Medium-High |
-| ABS      | ~1.04          | 100.81%           | 0.7% – 1.6% | ~40–50                | Medium-High       | Medium-High              | Moderate            | ~85–100             | Poor          | Low              | Moderate (needs enclosure)  | No                                  | Low-Medium  |
-| PETG     | ~1.27          | 100.40%           | 0.2% – 1%   | ~50–60                | High              | Medium                   | Moderate            | ~75–85              | Poor          | Medium           | Easy                        | Limited                             | Medium      |
-| PLA      | ~1.24          | 100.30%           | 0.2% – 0.5% | ~45–60                | Low-Medium        | High, but brittle        | Poor                | ~60                 | Poor          | Low              | Very Easy                   | Yes (food-safe grades)              | Low         |
-| Nylon    | ~1.12–1.15     | ~100.80%–101.20% | 1.0% – 2.0% | ~60–80                | Very High         | Medium (flexible, tough) | Excellent           | ~100–120            | Poor          | Medium-High      | Difficult (needs enclosure) | Limited (some medical grades exist) | Medium-High |
+| Property |  Scale Factor     | Shrinkage   | Strength   | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance | UV Resistance | Aging Resistance | Printability          | Biocompatibility                    | Cost        |
+| :------- | :---------------- | :---------- | :--------- | :---------------- | :----------------------- | :------------------ | :-------------- | :------------ | :--------------- | :-------------------- | :---------------------------------- | :---------- |
+| ASA      |  100.50%          | 0.4% – 0.7% | ~50–55 MPa | High              | High (Shore D ~70)       | Good                | ~90–100c        | Excellent     | High             | Moderate (enclosure)  | Limited                             | Medium-High |
+| ABS      |  100.81%          | 0.7% – 1.6% | ~40–50     | Medium-High       | Medium-High              | Moderate            | ~85–100c        | Poor          | Low              | Moderate (enclosure)  | No                                  | Low-Medium  |
+| PETG     |  100.40%          | 0.2% – 1%   | ~50–60     | High              | Medium                   | Moderate            | ~75–85c         | Poor          | Medium           | Easy                  | Limited                             | Medium      |
+| PLA      |  100.30%          | 0.2% – 0.5% | ~45–60     | Low-Medium        | High, but brittle        | Poor                | ~60c            | Poor          | Low              | Very Easy             | Yes (food-safe grades)              | Low         |
+| Nylon    | ~100.80%–101.20%  | 1.0% – 2.0% | ~60–80     | Very High         | Medium (flexible, tough) | Excellent           | ~100–120c       | Poor          | Medium-High      | Difficult (enclosure) | Limited (some medical grades exist) | Medium-High |
 
 **For best results use a Material type of ABS, ASA.**
 
@@ -34,7 +34,10 @@ Use this [shrinkage calculator](https://go.minimal3dp.com/calc/shrinkage) to cal
 
 ## Print Settings
 
-**Choose 0.20mm Strength** and verify the following settings:
+Verify the following settings:
+
+* **0.20mm Strength@BBL X1C**
+* **0.20mm Standard @some printer**
 
 **Quality->Layer Height**
 
@@ -95,11 +98,16 @@ If you are having problems with lifting edges I suggest the following settings u
 | **Setting**                 | Value                     |
 | :-------------------------- | :------------------------ |
 | **Skirt Loops**             | 1                         |
+| **Skirt type**              | Per object                |
+| **Skirt distance**          | 5mm                       |
 | **Skirt Height**            | 50                        |
 | **Brim type**               | Outer brim Only           |
+| **Draft shield**            | Disabled (its too much)   |
+| **Brim type                 | Outer Brim only           |
 | **Brim Width**              | 5mm (default)             |
 | **Brim-Object gap**         | 0.1mm (default)           |
 
+This will create a mini draft shield that should keep the corners from curling unless your workspace is really cold.
 
 ## Extra Parts
 
