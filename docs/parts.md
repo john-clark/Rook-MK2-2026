@@ -93,21 +93,22 @@ When you layout the parts I suggest printing only one part at a time. That way i
 
 ![plate layout](images/plates.png)
 
-If you are having problems with lifting edges I suggest the following settings under **Others->Bed adhesion**.
-
-| **Setting**                 | Value                     |
-| :-------------------------- | :------------------------ |
-| **Skirt Loops**             | 1                         |
-| **Skirt type**              | Per object                |
-| **Skirt distance**          | 5mm                       |
-| **Skirt Height**            | 50                        |
-| **Brim type**               | Outer brim Only           |
-| **Draft shield**            | Disabled (its too much)   |
-| **Brim type**               | Outer Brim only           |
-| **Brim Width**              | 5mm (default)             |
-| **Brim-Object gap**         | 0.1mm (default)           |
-
-This will create a mini draft shield that should keep the corners from curling unless your workspace is really cold.
+!!! Info
+    If you are having problems with lifting edges I suggest the following settings under **Others->Bed adhesion**.
+    
+    | **Setting**                 | Value                     |
+    | :-------------------------- | :------------------------ |
+    | **Skirt Loops**             | 1                         |
+    | **Skirt type**              | Per object                |
+    | **Skirt distance**          | 5mm                       |
+    | **Skirt Height**            | 50                        |
+    | **Brim type**               | Outer brim Only           |
+    | **Draft shield**            | Disabled (its too much)   |
+    | **Brim type**               | Outer Brim only           |
+    | **Brim Width**              | 5mm (default)             |
+    | **Brim-Object gap**         | 0.1mm (default)           |
+    
+    This will create a mini draft shield that should keep the corners from curling unless your workspace is really cold.
 
 ## Extra Parts
 
