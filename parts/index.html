@@ -651,14 +651,13 @@
 <thead>
 <tr>
 <th style="text-align: left;">Property</th>
-<th style="text-align: left;">Density (g/cm³)</th>
 <th style="text-align: left;">Scale Factor</th>
 <th style="text-align: left;">Shrinkage</th>
-<th style="text-align: left;">Tensile Strength (MPa)</th>
+<th style="text-align: left;">Strength</th>
 <th style="text-align: left;">Impact Resistance</th>
 <th style="text-align: left;">Hardness / Rigidity</th>
 <th style="text-align: left;">Abrasion Resistance</th>
-<th style="text-align: left;">Heat Resistance (°C)</th>
+<th style="text-align: left;">Heat Resistance</th>
 <th style="text-align: left;">UV Resistance</th>
 <th style="text-align: left;">Aging Resistance</th>
 <th style="text-align: left;">Printability</th>
@@ -669,46 +668,43 @@
 <tbody>
 <tr>
 <td style="text-align: left;">ASA</td>
-<td style="text-align: left;">~1.07</td>
 <td style="text-align: left;">100.50%</td>
 <td style="text-align: left;">0.4% – 0.7%</td>
-<td style="text-align: left;">~50–55</td>
+<td style="text-align: left;">~50–55 MPa</td>
 <td style="text-align: left;">High</td>
 <td style="text-align: left;">High (Shore D ~70)</td>
 <td style="text-align: left;">Good</td>
-<td style="text-align: left;">~90–100</td>
+<td style="text-align: left;">~90–100c</td>
 <td style="text-align: left;">Excellent</td>
 <td style="text-align: left;">High</td>
-<td style="text-align: left;">Moderate (needs enclosure)</td>
+<td style="text-align: left;">Moderate (enclosure)</td>
 <td style="text-align: left;">Limited</td>
 <td style="text-align: left;">Medium-High</td>
 </tr>
 <tr>
 <td style="text-align: left;">ABS</td>
-<td style="text-align: left;">~1.04</td>
 <td style="text-align: left;">100.81%</td>
 <td style="text-align: left;">0.7% – 1.6%</td>
 <td style="text-align: left;">~40–50</td>
 <td style="text-align: left;">Medium-High</td>
 <td style="text-align: left;">Medium-High</td>
 <td style="text-align: left;">Moderate</td>
-<td style="text-align: left;">~85–100</td>
+<td style="text-align: left;">~85–100c</td>
 <td style="text-align: left;">Poor</td>
 <td style="text-align: left;">Low</td>
-<td style="text-align: left;">Moderate (needs enclosure)</td>
+<td style="text-align: left;">Moderate (enclosure)</td>
 <td style="text-align: left;">No</td>
 <td style="text-align: left;">Low-Medium</td>
 </tr>
 <tr>
 <td style="text-align: left;">PETG</td>
-<td style="text-align: left;">~1.27</td>
 <td style="text-align: left;">100.40%</td>
 <td style="text-align: left;">0.2% – 1%</td>
 <td style="text-align: left;">~50–60</td>
 <td style="text-align: left;">High</td>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: left;">Moderate</td>
-<td style="text-align: left;">~75–85</td>
+<td style="text-align: left;">~75–85c</td>
 <td style="text-align: left;">Poor</td>
 <td style="text-align: left;">Medium</td>
 <td style="text-align: left;">Easy</td>
@@ -717,14 +713,13 @@
 </tr>
 <tr>
 <td style="text-align: left;">PLA</td>
-<td style="text-align: left;">~1.24</td>
 <td style="text-align: left;">100.30%</td>
 <td style="text-align: left;">0.2% – 0.5%</td>
 <td style="text-align: left;">~45–60</td>
 <td style="text-align: left;">Low-Medium</td>
 <td style="text-align: left;">High, but brittle</td>
 <td style="text-align: left;">Poor</td>
-<td style="text-align: left;">~60</td>
+<td style="text-align: left;">~60c</td>
 <td style="text-align: left;">Poor</td>
 <td style="text-align: left;">Low</td>
 <td style="text-align: left;">Very Easy</td>
@@ -733,17 +728,16 @@
 </tr>
 <tr>
 <td style="text-align: left;">Nylon</td>
-<td style="text-align: left;">~1.12–1.15</td>
 <td style="text-align: left;">~100.80%–101.20%</td>
 <td style="text-align: left;">1.0% – 2.0%</td>
 <td style="text-align: left;">~60–80</td>
 <td style="text-align: left;">Very High</td>
 <td style="text-align: left;">Medium (flexible, tough)</td>
 <td style="text-align: left;">Excellent</td>
-<td style="text-align: left;">~100–120</td>
+<td style="text-align: left;">~100–120c</td>
 <td style="text-align: left;">Poor</td>
 <td style="text-align: left;">Medium-High</td>
-<td style="text-align: left;">Difficult (needs enclosure)</td>
+<td style="text-align: left;">Difficult (enclosure)</td>
 <td style="text-align: left;">Limited (some medical grades exist)</td>
 <td style="text-align: left;">Medium-High</td>
 </tr>
@@ -766,7 +760,11 @@
 <li>3dprinteddecor (2026) <a href="https://3dprinteddecor.com/bambu-studio-vs-orca-slicer/">Stop using the wrong slicer</a></li>
 </ul>
 <h2 id="print-settings">Print Settings<a class="headerlink" href="#print-settings" title="Permanent link">&para;</a></h2>
-<p><strong>Choose 0.20mm Strength</strong> and verify the following settings:</p>
+<p>Verify the following settings:</p>
+<ul>
+<li><strong>0.20mm Strength@BBL X1C</strong></li>
+<li><strong>0.20mm Standard @some printer</strong></li>
+</ul>
 <p><strong>Quality-&gt;Layer Height</strong></p>
 <table>
 <thead>
@@ -902,12 +900,28 @@
 <td style="text-align: left;">1</td>
 </tr>
 <tr>
+<td style="text-align: left;"><strong>Skirt type</strong></td>
+<td style="text-align: left;">Per object</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Skirt distance</strong></td>
+<td style="text-align: left;">5mm</td>
+</tr>
+<tr>
 <td style="text-align: left;"><strong>Skirt Height</strong></td>
 <td style="text-align: left;">50</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Brim type</strong></td>
 <td style="text-align: left;">Outer brim Only</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Draft shield</strong></td>
+<td style="text-align: left;">Disabled (its too much)</td>
+</tr>
+<tr>
+<td style="text-align: left;">**Brim type</td>
+<td style="text-align: left;">Outer Brim only</td>
 </tr>
 <tr>
 <td style="text-align: left;"><strong>Brim Width</strong></td>
@@ -919,6 +933,7 @@
 </tr>
 </tbody>
 </table>
+<p>This will create a mini draft shield that should keep the corners from curling unless your workspace is really cold.</p>
 <h2 id="extra-parts">Extra Parts<a class="headerlink" href="#extra-parts" title="Permanent link">&para;</a></h2>
 <p>If you don't want to buy pins, couplers, idlers and pulleys and rails you can print them. I printed them as place holders on my build until my parts came in. I have not had a chance to determine the longevity of these parts, although I doubt the rails will be sufficient for any use other than observation.</p>
 <ul>
@@ -954,7 +969,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    2026-04-13
+    2026-04-14
   </span>
 
     
