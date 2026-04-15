@@ -3,19 +3,19 @@
 !!! Info 
     This printer was designed so it could be printed with PLA and no heated bed, although I have not tested this. YMMV
 
-The following table is to help guide your decision making filament type choice. I have printed my Rooks with parts in various filaments.
+I have printed my Rooks with various parts in various filaments. For example: PLA for skirts and trim, ASA for Bed mount and rails, and PETG for enclosure.
 
-| Property |  Scale Factor     | Shrinkage   | Strength   | Impact Resistance | Hardness / Rigidity      | Abrasion Resistance | Heat Resistance | UV Resistance | Aging Resistance | Printability          | Biocompatibility                    | Cost        |
-| :------- | :---------------- | :---------- | :--------- | :---------------- | :----------------------- | :------------------ | :-------------- | :------------ | :--------------- | :-------------------- | :---------------------------------- | :---------- |
-| ASA      |  100.50%          | 0.4% – 0.7% | ~50–55 MPa | High              | High (Shore D ~70)       | Good                | ~90–100c        | Excellent     | High             | Moderate (enclosure)  | Limited                             | Medium-High |
-| ABS      |  100.81%          | 0.7% – 1.6% | ~40–50     | Medium-High       | Medium-High              | Moderate            | ~85–100c        | Poor          | Low              | Moderate (enclosure)  | No                                  | Low-Medium  |
-| PETG     |  100.40%          | 0.2% – 1%   | ~50–60     | High              | Medium                   | Moderate            | ~75–85c         | Poor          | Medium           | Easy                  | Limited                             | Medium      |
-| PLA      |  100.30%          | 0.2% – 0.5% | ~45–60     | Low-Medium        | High, but brittle        | Poor                | ~60c            | Poor          | Low              | Very Easy             | Yes (food-safe grades)              | Low         |
-| Nylon    | ~100.80%–101.20%  | 1.0% – 2.0% | ~60–80     | Very High         | Medium (flexible, tough) | Excellent           | ~100–120c       | Poor          | Medium-High      | Difficult (enclosure) | Limited (some medical grades exist) | Medium-High |
+**For best results print this printer using a Material type of ABS, ASA.**
 
-**For best results use a Material type of ABS, ASA.**
+The following table is to help guide your decision making filament type choice.
 
-The density relates to how heavy the product will be when printed. 
+| Type  |  Scale Factor     | Shrinkage   | Strength   | Impact Resistance | Hardness / Rigidity      | Heat Resistance | Aging Resistance | Printability          | Cost        |
+| :---- | :---------------- | :---------- | :--------- | :---------------- | :----------------------- | :-------------- | :--------------- | :-------------------- |:----------- |
+| ASA   |  100.50%          | 0.4% – 0.7% | ~50–55 MPa | High              | High (Shore D ~70)       | ~90–100c        | High             | Moderate (enclosure)  | Medium-High |
+| ABS   |  100.81%          | 0.7% – 1.6% | ~40–50     | Medium-High       | Medium-High              | ~85–100c        | Low              | Moderate (enclosure)  | Low-Medium  |
+| PETG  |  100.40%          | 0.2% – 1%   | ~50–60     | High              | Medium                   | ~75–85c         | Medium           | Easy                  | Medium      |
+| PLA   |  100.30%          | 0.2% – 0.5% | ~45–60     | Low-Medium        | High, but brittle        | ~60c            | Low              | Very Easy             | Low         |
+| Nylon | ~100.80%–101.20%  | 1.0% – 2.0% | ~60–80     | Very High         | Medium (flexible, tough) | ~100–120c       | Medium-High      | Difficult (enclosure) | Medium-High |
 
 !!! Note "Nylon (PA)" 
     Includes multiple variants such as PA6 (stronger, more hygroscopic), PA12 (easier to print, lower moisture absorption), and filled types like carbon fiber (CF) and glass fiber (GF). Filled nylons have significantly reduced shrinkage and higher rigidity, making them better for structural parts, but are more brittle and abrasive to nozzles. All nylons are hygroscopic and require thorough drying before printing. I do not suggest Nylon due to the difficulties printing.
